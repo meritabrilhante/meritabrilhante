@@ -6,7 +6,7 @@ Front-end developer and UI Designer.
 <br>
 🔭 I’m currently working as Product Designer;
 <br>
-📚 Studying Javascrip, Typescrit, React, Node.js, Graph.ql, C, Angular;
+📚 Studying Javascript, Typescript, React, Node.js, Graph.ql, C, Angular;
 <br>
 📥 Get in touch: ritabrilhanteszs@gmail.com
 <br>
