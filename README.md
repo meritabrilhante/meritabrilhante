@@ -1,7 +1,7 @@
 # Rita Brilhante
 
 <section>
-Front-end developer and UI Designer.
+Front-end developer and UI/UX Designer.
 <br>
 <br>
 🔭 I’m currently working as Product Designer;
