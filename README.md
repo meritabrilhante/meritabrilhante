@@ -4,7 +4,7 @@
 Front-end developer and UI/UX Designer.
 <br>
 <br>
-🔭 I’m currently working as Product Designer;
+🔭 I’m currently working as front-end developer;
 <br>
 📚 Studying Javascript, Typescript, React, Node.js, Graph.ql, C, Angular;
 <br>
