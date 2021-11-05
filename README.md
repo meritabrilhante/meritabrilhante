@@ -6,7 +6,7 @@ Front-end developer and UI/UX Designer.
 <br>
 🔭 I’m currently working as front-end developer;
 <br>
-📚 Studying Javascript, Typescript, React, Node.js, Graph.ql, C, Angular;
+📚 Studying Javascript, Typescript, React, Node.js, Next.js, Sass;
 <br>
 📥 Get in touch: ritabrilhanteszs@gmail.com
 <br>
