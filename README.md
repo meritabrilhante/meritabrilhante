@@ -1,12 +1,12 @@
 # Rita Brilhante
 
 <section>
-Front-end developer and UI/UX Designer.
+Backend Developer.
 <br>
 <br>
-🔭 I’m currently working as front-end developer;
+🔭 I’m currently working as backend developer;
 <br>
-📚 Studying Javascript, Typescript, React, Node.js, Next.js, Sass;
+📚 Studying Ruby, Typescript, React, Node.js, Next.js, Sass;
 <br>
 📥 Get in touch: ritabrilhanteszs@gmail.com
 <br>
