@@ -22,4 +22,4 @@ So now, I work for almost 2 years with software engineering for web applications
 
 Want to know more about me or my work?
 - 📬 reach me: meritabrilhante@gmail.com
-- ✈️ portfolio still in progress...
+- ✈️ https://meritabrilhante.myportfolio.com
