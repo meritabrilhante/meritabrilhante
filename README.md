@@ -1,6 +1,6 @@
 ### How you doing? 👋
 
-I'm a backend developer based in Brasilia.
+I'm a fullstack developer based in Brasilia.
 
 I started my carrer working as Product Designer/Frontend developer, graduated in Graphic Design until I realize that my truly passion it really was backend.
 
