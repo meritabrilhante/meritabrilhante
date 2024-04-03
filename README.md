@@ -2,9 +2,7 @@
 
 I'm a fullstack developer based in Brasilia.
 
-I started my carrer working as Product Designer/Frontend developer, graduated in Graphic Design until I realize that my truly passion it really was backend.
-
-So now, I work for almost 2 years with software engineering for web applications and 1 year formally as backend developer.
+I started my carrer working as Product Designer/Frontend developer, graduated in Graphic Design until I realize that my truly passion it really was development.
 
 - 🔭 I’m currently fullstack developer
 - 🌱 I’m always studying about architecture, design and code patterns.
